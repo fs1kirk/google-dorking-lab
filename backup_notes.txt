@@ -1,0 +1,9 @@
+APEX SIGNAL LABS
+Legacy Backup Notes
+TRAINING MATERIAL - FICTIONAL DATA ONLY
+
+Environment: Development Simulation
+Archive reference: ASL-BACKUP-2019
+Search phrase: forgotten staging inventory
+
+Training marker: FAST{FILETYPES_EXPOSE_FORGOTTEN_FILES}
